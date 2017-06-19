@@ -8,7 +8,7 @@ $interval = 100		;1000 = 1 sec
 ; ***************************************
 
 
-Const $appName = "PowerPoint Image Exporter"
+Const $appName = "Ppt2Png"
 Const $slideShowClassName = "[CLASS:screenClass]"
 
 ; Prompt the user to run the script - use a Yes/No prompt with the flag parameter set at 4 (see the help file for more details)
